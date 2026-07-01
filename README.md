@@ -2,8 +2,8 @@
 
 <div align="center">
 
-### 📱 Senior React Native Developer | Full-Stack Mobile & Web Architect
-### Cross-Platform Specialist | Android • iOS • Tablet • Web | 2.8+ Years Professional Experience
+### 📱 React Native Mobile App Developer | Full-Stack Mobile & Web Architect
+### Cross-Platform Specialist | Android • iOS • Tablet • Web | 3+ Years Professional Experience
 
 🇵🇰 **Pakistan (Bahawalpur)** — Open to Global & Remote Opportunities
 
@@ -25,7 +25,7 @@
 
 ## 🎯 About Me
 
-Senior React Native Developer with **2.8+ years** of hands-on experience building **production-grade, scalable, high-performance cross-platform applications** for Android, iOS, Tablet, and Web platforms. Specialized in crafting seamless user experiences with complex UI/UX animations and implementing robust backend integrations.
+React Native Mobile App Developer with **3+ years** of hands-on experience building **production-grade, scalable, high-performance cross-platform applications** for Android, iOS, Tablet, and Web platforms. Specialized in crafting seamless user experiences with complex UI/UX animations and implementing robust backend integrations.
 
 **Expertise in:** Enterprise-level mobile architecture, state management, real-time data synchronization, offline-first applications, and performance optimization.
 
@@ -100,7 +100,7 @@ Senior React Native Developer with **2.8+ years** of hands-on experience buildin
 
 ✅ **Architecture & Design:** Enterprise-level app architecture, design patterns, scalable codebase  
 ✅ **Performance Optimization:** Bundle size reduction, memory management, smooth 60+ FPS animations  
-✅ **Team Leadership:** Code reviews, mentoring, best practices documentation  
+✅ **Team Collaboration:** Code reviews, knowledge sharing, best practices documentation  
 ✅ **Problem Solving:** Complex debugging, optimization challenges, technical decision-making  
 ✅ **Cross-Platform Development:** Unified codebase strategy, platform-specific handling  
 ✅ **API Integration:** REST APIs, Real-time data sync, Payment gateways  
@@ -111,8 +111,7 @@ Senior React Native Developer with **2.8+ years** of hands-on experience buildin
 ## 💼 Featured Projects
 
 ### 🚗 **Car Rental Application**
-- **Platform:** Android & iOS
-- **Role:** Lead Developer
+- **Platform:** Android
 - **Highlights:**
   - Multi-role architecture (Admin, Users, Providers)
   - Real-time booking management system
@@ -121,88 +120,80 @@ Senior React Native Developer with **2.8+ years** of hands-on experience buildin
 
 ### 🎟️ **Bookkaru — Ticket Booking Platform**
 - **Platform:** Android & iOS
-- **Role:** Senior Developer
 - **Highlights:**
   - Firebase real-time integration
   - Advanced API implementation
-  - Production deployment on Play Store & App Store
+  - Live on Play Store & App Store
   - Performance upgrades for high-volume transactions
+- 🔗 [Play Store](#) &nbsp;|&nbsp; [App Store](#)
 
 ### 🚌 **Faisal Movers — Online Ticketing System**
 - **Platform:** Android & iOS
-- **Role:** Full-Stack Developer
 - **Highlights:**
-  - Complete feature implementation from scratch
+  - Feature implementation & bug fixes
   - Firebase integration & analytics
   - Multi-API integration & synchronization
   - iOS App Store release preparation & launch
-  - 10K+ active users
+- 🔗 [Play Store](#) &nbsp;|&nbsp; [App Store](#)
 
 ### 🚌 **Faisal Movers — Operator App** *(Ongoing)*
 - **Platform:** Android & iOS (In Development)
-- **Role:** Senior Lead Developer
 - **Highlights:**
   - Built from ground-up architecture
-  - Real-time operator tracking & management
+  - Operator-specific tools & management
   - Scalable backend integration
 
 ### 🕌 **Alowaa Community App**
 - **Platform:** Android & iOS
-- **Role:** Contributor & Developer
 - **Highlights:**
   - Performance optimization
   - Bug fixes & new feature implementation
   - Enhanced user experience
-  - Available on App Store
+- 🔗 [App Store](#)
 
-### 🧾 **NokNok Aggregator — Enterprise POS System**
+### 🧾 **NokNok Aggregator — Tablet POS System**
 - **Platform:** Android & iOS (Tablet-Optimized)
-- **Role:** Lead Architect & Developer
 - **Highlights:**
-  - Full POS application built from scratch
-  - Order management system
-  - Asset & employee management
+  - Full POS-style application built from scratch
+  - Order-taking, asset & employee management
   - Enterprise-grade performance optimization
-  - Available on Play Store
+- 🔗 [Play Store](#)
 
 ### 💪 **PowherFit — Fitness & Wellness**
 - **Platform:** iOS & Android
-- **Role:** UI/UX Lead Developer
 - **Highlights:**
   - Complete UI design & implementation
-  - Responsive adaptive layouts
+  - Responsive, adaptive layouts
   - Smooth animations & transitions
   - Close backend collaboration
+- 🔗 [App Store](#)
 
 ### 🎨 **Kuromi Coloring Pages**
 - **Platform:** Android
-- **Role:** Frontend Lead
 - **Highlights:**
   - Firebase real-time database integration
   - Analytics implementation
-  - Load time optimization
-  - 50K+ downloads
+  - Load time & performance optimization
+- 🔗 [Play Store](#)
 
 ### 📝 **Feedback Management Application**
 - **Platform:** Android & iOS
-- **Role:** Full Developer
 - **Highlights:**
   - Complete UI implementation
   - API data exchange integration
-  - Performance optimization
-  - Production deployment
+  - Debugging & performance improvements
+- 🔗 [Play Store](#)
 
 ### 🥗 **Freshr — Food & Nutrition**
 - **Platform:** Android & iOS
-- **Role:** Frontend Developer
 - **Highlights:**
   - API integration & data synchronization
   - Dynamic content rendering
   - User experience optimization
+- 🔗 [Play Store](#)
 
-### 🛒 **DealDive — E-Commerce Platform**
+### 🛒 **DealDive — E-Commerce Platform** *(Final Year University Project)*
 - **Platform:** Android & iOS
-- **Type:** Final Year University Project
 - **Highlights:**
   - Advanced product catalog UI
   - Order management system
@@ -226,12 +217,10 @@ Senior React Native Developer with **2.8+ years** of hands-on experience buildin
 
 ## 🏅 Professional Achievements
 
-🚀 **Production Launches:** Successfully deployed 10+ applications on Google Play Store & Apple App Store  
-📊 **User Base:** Built apps serving 50K+ active users across multiple platforms  
-🐛 **Quality Focus:** Recognized for excellent debugging, performance optimization, and code quality  
-🎯 **Client Satisfaction:** Consistently delivered on-time projects with measurable business impact  
-👥 **Team Contribution:** Mentored junior developers & established coding best practices  
-⚡ **Performance Expert:** Optimized apps reducing load times by 40-60%, achieving 60+ FPS animations  
+🚀 **Production Launches:** Multiple applications deployed on Google Play Store & Apple App Store  
+🐛 **Quality Focus:** Recognized for strong debugging, performance optimization, and code quality  
+🎯 **Client Satisfaction:** Consistently delivered projects with measurable business impact  
+⚡ **Performance Expert:** Optimized apps for faster load times and smooth 60+ FPS animations  
 
 ---
 
@@ -239,11 +228,9 @@ Senior React Native Developer with **2.8+ years** of hands-on experience buildin
 
 | Metric | Value |
 |--------|-------|
-| **Years of Experience** | 2.8+ Years |
-| **Apps Deployed** | 10+ Production Apps |
-| **Active Users** | 50K+ |
+| **Years of Experience** | 3+ Years |
 | **Platforms** | Android, iOS, Tablet, Web |
-| **Team Size Managed** | Small Teams |
+| **Focus Area** | React Native Mobile App Development |
 
 ---
 
@@ -259,7 +246,7 @@ Senior React Native Developer with **2.8+ years** of hands-on experience buildin
 
 ## 💡 What I'm Looking For
 
-🎯 **Seeking:** Senior Developer roles, Technical Lead positions, Contract-based projects  
+🎯 **Seeking:** React Native Developer roles, Mobile App Developer positions, Contract-based projects  
 🌍 **Availability:** Full-time, Part-time, Freelance, Remote opportunities  
 📍 **Location:** Open to global positions (Currently: Bahawalpur, Pakistan)  
 
@@ -291,6 +278,6 @@ Feel free to reach out through any of these channels:
 
 ### 🌟 Open to freelance projects • Contract work • Full-time roles • Technical consultation
 
-**Abdul Wahab — Senior React Native & Full-Stack Developer**
+**Abdul Wahab — React Native Mobile App Developer**
 
 </div>
